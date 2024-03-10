@@ -1,0 +1,41 @@
+
+html,body{
+    font-family: "Heebo", sans-serif;
+
+}
+
+.blog-post h3 {
+    font-family: Heebo;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #21243D;
+
+    
+
+}
+.blog-post p{
+    font-family: Heebo;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+
+
+}
+.blog-post div p{
+    font-family: Heebo;
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.blog-post div span{
+    color: #8695A4;
+
+}
